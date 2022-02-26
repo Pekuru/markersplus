@@ -193,7 +193,7 @@ class CfgMarkers
 	{
 		markerClass="mplus_tasks";
 		name="Block";
-		icon="markersplus\markersplus\data\img\block.paa";
+		icon="markersplus\data\img\block.paa";
 		color[]={1,1,1,1};
 		size=64;
 		shadow=1;
